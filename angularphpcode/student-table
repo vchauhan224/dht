@@ -1,5 +1,6 @@
 //create data base
 CREATE DATABASE angular_data
+//Create table
 
 CREATE TABLE `student` (
  `id` int(11) NOT NULL AUTO_INCREMENT,
