@@ -1,3 +1,6 @@
+//create data base
+CREATE DATABASE angular_data
+
 CREATE TABLE `student` (
  `id` int(11) NOT NULL AUTO_INCREMENT,
  `name` varchar(255) COLLATE utf8_unicode_ci NOT NULL,
